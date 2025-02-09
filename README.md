@@ -5,7 +5,7 @@ This project analyzes Zomato restaurant data using Power BI to extract insights 
 
 ## 📂 Data Sources
 The analysis is based on the following files:
-- **Indian_restaurant_data.xlsx** - Contains restaurant details, ratings, votes, and other attributes.
+- **"C:\Power BI\Zomato\Indian_restaurant_data.xlsx"** - Contains restaurant details, ratings, votes, and other attributes.
 - **Zomato Dashboard.pbit** - Power BI template with pre-built visualizations.
 - **Zomato Dashboard.pdf** - A static report showcasing key insights.
 
