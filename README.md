@@ -1,13 +1,15 @@
 # Zomato Restaurants Analysis Dashboard
 
+"C:\Power BI\Zomato\Zomato Dashboard.pdf"
+
 ## 📌 Project Overview
 This project analyzes Zomato restaurant data using Power BI to extract insights on restaurant distribution, ratings, cuisines, and customer preferences across different locations. The dashboard provides a visual representation of key metrics such as average ratings, online delivery trends, table booking statistics, and restaurant growth over the years.
 
 ## 📂 Data Sources
 The analysis is based on the following files:
-- **"C:\Power BI\Zomato\Indian_restaurant_data.xlsx"** - Contains restaurant details, ratings, votes, and other attributes.
+- **Indian_restaurant_data.xlsx** - Contains restaurant details, ratings, votes, and other attributes.
 - **Zomato Dashboard.pbit** - Power BI template with pre-built visualizations.
-- **Zomato Dashboard.pdf** - A static report showcasing key insights.
+- **Zomato Restaurant Data Analysis Case Study.pdf** - A static report showcasing key insights.
 
 ## 📊 Key Metrics & Insights
 - **Total Restaurants:** 9,551
@@ -45,5 +47,5 @@ For any queries or contributions, feel free to connect via GitHub Issues.
 
 ---
 
-📌 **Contributors:** Rohan
+📌 **Name:** Rohan
 📌 **Tools Used:** Power BI, Excel, Data Analysis
