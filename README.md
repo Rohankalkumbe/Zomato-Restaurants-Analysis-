@@ -1,6 +1,7 @@
 # Zomato Restaurants Analysis Dashboard
 
-"C:\Power BI\Zomato\Zomato Dashboard.pdf"
+![Zomato Restaurants Analysis DashBoard](https://github.com/user-attachments/assets/29290c75-9a4b-49ec-9ed9-f98a01499135)
+
 
 ## 📌 Project Overview
 This project analyzes Zomato restaurant data using Power BI to extract insights on restaurant distribution, ratings, cuisines, and customer preferences across different locations. The dashboard provides a visual representation of key metrics such as average ratings, online delivery trends, table booking statistics, and restaurant growth over the years.
